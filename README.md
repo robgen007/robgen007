@@ -43,9 +43,8 @@ I am a top-tier Full-Stack Developer and AI Innovator with a passion for creatin
 
 Here you can list some of your noteworthy projects with brief descriptions and links to each:
 
-- **[Project Name](#)**: Brief description of what the project is about, technologies used, and your role.
-- **[SaaS Healthcare App](#)**: Leveraged AWS and Django to develop a scalable SaaS platform for healthcare professionals.
-- **[AI-Powered CRM Platform](#)**: Integrated AI and cloud solutions for a CRM platform, enhancing customer engagement.
+- Leveraged AWS and Django to develop a scalable SaaS platform for healthcare professionals.
+- Integrated AI and cloud solutions for a CRM platform, enhancing customer engagement.
 
 ---
 
